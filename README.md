@@ -4,6 +4,8 @@ A browser bookmarklet for querying, exploring, and editing Microsoft Dataverse /
 
 It translates standard SQL queries into FetchXML under the hood and presents the results in an interactive, editable Excel-style grid. This makes it especially useful on locked-down or managed corporate machines where installing external utilities (like XrmToolBox, SQL 4 CDS, or browser extensions) is not permitted.
 
+<img width="1367" height="860" alt="image" src="https://github.com/user-attachments/assets/f04cf2ba-30b9-44c8-98c0-ae1c7ce5af4a" />
+
 ---
 
 > [!CAUTION]
@@ -39,12 +41,6 @@ This bookmarklet:
 6. Ensure the URL starts with `javascript:`.
 7. Navigate to any Dynamics 365 or Power Apps model-driven application tab.
 8. Click the bookmark to launch the tool.
-
-> [!TIP]
-> On Windows PowerShell, you can copy the bookmarklet code directly to your clipboard by running:
-> ```powershell
-> Get-Content bookmarklet.js -Raw | Set-Clipboard
-> ```
 
 ---
 
