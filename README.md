@@ -104,3 +104,6 @@ SQL 4 CDS set the standard for querying Microsoft Dataverse / Dynamics 365 using
 
 Found a bug or have a suggestion? Please open an issue on the repository. Pull requests are welcome!
 
+## License
+
+Released under the [MIT License](LICENSE). The bookmarklet bundles [Preact](https://github.com/preactjs/preact) (MIT License); its notice is in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
